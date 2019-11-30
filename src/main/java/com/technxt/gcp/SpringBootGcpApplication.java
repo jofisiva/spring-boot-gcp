@@ -14,7 +14,7 @@ public class SpringBootGcpApplication {
 
     @GetMapping
     public String demo() {
-        return "Spring Boot Run in GCP";
+        return "Spring Boot Run in GCP cloud!!!";
     }
 
     public static void main(String[] args) {
